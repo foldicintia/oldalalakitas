@@ -89,7 +89,7 @@ aside#jobb{
         "f" ;
     }
     .kepek{
-        grid-template-areas: 2fr;
+        grid-template-columns: 2fr;
     }    
 } /*tablet nézet*/
 
